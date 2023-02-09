@@ -7,3 +7,4 @@ Using Bootstrap framework, Jquery, and the Open weather API the user can search 
 #### Deployed Website
 https://denimb96.github.io/Five-Day-Weather-Forecast/
 ##### Deployed Website Screenshot
+![image](https://user-images.githubusercontent.com/120414766/217721912-9f411be6-af5f-4fb3-9e28-3ac8d2b8bde1.png)

@@ -5,4 +5,5 @@ When the user searches for a city, they're presented with the current and future
 ### Results
 Using Bootstrap framework, Jquery, and the Open weather API the user can search for a city and get the current and future weather conditions which include the name, date, temperature, humidity, wind speed and UVIndex for each city. The forecast will display corresponding weather icons. Local storage will store data for previously search cities and add them to a list which can be clicked to reload city search.
 #### Deployed Website
+https://denimb96.github.io/Five-Day-Weather-Forecast/
 ##### Deployed Website Screenshot
